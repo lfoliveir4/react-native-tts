@@ -12,7 +12,6 @@ React Native TTS is a text-to-speech library for [React Native](https://facebook
 ## Install
 
 ```shell
-yarn add react-native-tts
 npm install --save react-native-tts
 react-native link react-native-tts
 ```
